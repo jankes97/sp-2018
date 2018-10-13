@@ -1,0 +1,3 @@
+## Notatki do jezykow i srodowiska programisty
+
+### Bash
